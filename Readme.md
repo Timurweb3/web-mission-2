@@ -2,7 +2,7 @@
 
 ## Part 0
 
-[Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
+https://ut2c7f.buildship.run/mission2-63d6a28f53e7
 
 ## Part1
 
